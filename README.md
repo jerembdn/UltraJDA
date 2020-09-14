@@ -11,7 +11,7 @@ Create Discord commands has never been so easy !
 
 **Step 1:**
 ```java
-import fr._3dx900.ultrajda.commands.CommandHandler;
+import fr.the3dx900.ultrajda.commands.CommandHandler;
 
 public class UltraCommand {
     
@@ -63,7 +63,7 @@ You can complete your commands by adding parameters to the `process()` method.
 
 **Examples:**
 ```java
-import fr._3dx900.ultrajda.commands.CommandHandler;
+import fr.the3dx900.ultrajda.commands.CommandHandler;
 
 import net.dv8tion.jda.core.entities.*;
 
